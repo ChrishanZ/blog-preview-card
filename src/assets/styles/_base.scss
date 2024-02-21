@@ -1,4 +1,5 @@
-body {
+body,
+p {
   margin: 0;
   font-family: var(--font-family);
   -webkit-font-smoothing: antialiased;
@@ -32,4 +33,16 @@ input {
 
 ::placeholder {
   font-family: var(--font-family);
+}
+
+@font-face {
+  font-family: "Figtree";
+  src: url("../fonts/Figtree-VariableFont_wght.ttf");
+  font-weight: 100 900;
+}
+
+@font-face {
+  font-family: "FigtreeItalic";
+  src: url("../fonts/Figtree-Italic-VariableFont_wght.ttf");
+  font-weight: 100 900;
 }

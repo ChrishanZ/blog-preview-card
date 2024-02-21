@@ -1,0 +1,14 @@
+{
+  "image": {
+    "srcImage": "../src/assets/images/illustration-article.svg",
+    "altImage": "illustration article"
+  },
+  "theme": "Design",
+  "datePublished": "Publié le 20 décembre 2023",
+  "titleArticle": "Découvrez le design system",
+  "descriptionArticle": "Le design system est une méthodologie intégrée qui harmonise l'aspect visuel, les interactions et les composants d'une interface utilisateur pour offrir une expérience utilisateur cohérente et efficace.",
+  "author": {
+    "fullName": "Chrishan Duttoo",
+    "avatar": "../src/assets/images/avatar.jpeg"
+  }
+}

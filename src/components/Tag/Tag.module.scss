@@ -1,0 +1,15 @@
+@use "../../assets/styles/mixins" as mixin;
+
+.tag {
+  font-weight: 700;
+  padding: 5px 4px;
+  background-color: var(--yellow);
+  border-radius: 4px;
+  min-width: 82px;
+  text-align: center;
+  font-size: 14px;
+
+  @include mixin.xs {
+    font-size: 12px;
+  }
+}

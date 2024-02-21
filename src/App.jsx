@@ -1,11 +1,7 @@
-import Sample from "./components/Sample/Sample";
+import Screen from "./components/Screen/Screen";
 
 function App() {
-  return (
-    <div className="d-flex justify-content-center align-items-center">
-      <Sample />
-    </div>
-  );
+  return <Screen />;
 }
 
 export default App;
